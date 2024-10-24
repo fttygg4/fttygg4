@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emanuel Contreras Calacuayo
+- 👀 Yo estoy interesado en... crear paginas web, base de datos y cualquier tipo de codigo.
+- 🌱 Estoy aprendiendo... Java, JavaScript, HTML, CSS, Python. Conocimientos de C++ y C.
+- 💞️ Quiero colaborar con... Empresas, trabajos privados y creacion de codigo.
+- 📫 Como encontrarme... econtrerascalacuayo512@gmail.com
